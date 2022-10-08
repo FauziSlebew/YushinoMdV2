@@ -80,58 +80,58 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281348106274', 'DaniXd', true],
-['6281251549899', 'DaniOfc', true]
+['6287837703726', '⏤͟͟͞𝙁𝘼𝙐𝙕𝙄', true],
+['6287837703726', '⏤͟͟͞𝙁𝘼𝙐𝙕𝙄', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6281352848936'
-global.nomorown = '6281251549899'
-global.nomorown1 = '6281251549899'
-global.nomorown2 = '6281348106274'
+global.nomorbot = '17167511888'
+global.nomorown = '6287837703726'
+global.nomorown1 = '6287837703726'
+global.nomorown2 = '6287837703726'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'DaniXd'
-global.namebot = '​ DaniBotz'
-global.wm = '© DaniBotz Bye DaniXd'
+global.author = '⏤͟͟͞𝙁𝘼𝙐𝙕𝙄'
+global.namebot = '​ ғᴀᴜᴢɪʙᴏᴛᴢ-ᴍᴅ'
+global.wm = '© ғᴀᴜᴢɪʙᴏᴛᴢ-ᴍᴅ Bye ⏤͟͟͞𝙁𝘼𝙐𝙕𝙄'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'DaniXd '
+global.wm = '⏤͟͟͞𝙁𝘼𝙐𝙕𝙄 '
 global.watermark = wm
-global.wm2 = 'DaniXd '
+global.wm2 = '⏤͟͟͞𝙁𝘼𝙐𝙕𝙄 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
-global.stickauth = `© DaniBotz MD`
+global.titlebot = `ғᴀᴜᴢɪʙᴏᴛᴢ-ᴍᴅ`
+global.stickpack = 'ғᴀᴜᴢɪʙᴏᴛᴢ-ᴍᴅ'
+global.stickauth = `© ғᴀᴜᴢɪʙᴏᴛᴢ-ᴍᴅ`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'DaniXd'
-global.nameown2 = 'DaniOfc'
+global.nameown1= '⏤͟͟͞𝙁𝘼𝙐𝙕𝙄'
+global.nameown2 = '⏤͟͟͞𝙁𝘼𝙐𝙕𝙄'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/danibotz_official'
-global.sgh = 'https://github.com/DaniXd' //github
+global.sig = 'https://instagram.com/fauzibeban__'
+global.sgh = 'https://github.com/FauziSlebew' //github
 global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0812 5154 9899'
-global.povo = '-'
-global.pgopay = '0813 5284 8936'
+global.pdana = '0878-3770-3726'
+global.povo = '0878-3770-3726'
+global.pgopay = '0878-3770-3726'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0812 5154 9899'
-global.ppulsa2 = '081352848936'
-global.psaweria = 'https://saweria.co/hyuura'
+global.ppulsa = '0878-3770-3726'
+global.ppulsa2 = '087837703726'
+global.psaweria = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
